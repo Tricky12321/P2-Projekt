@@ -1,0 +1,8 @@
+C:\Users\Tricky\Documents\GitHub\P2-Projekt\P2 Projekt\P2 Projekt\bin\Debug\P2 Projekt.exe
+C:\Users\Tricky\Documents\GitHub\P2-Projekt\P2 Projekt\P2 Projekt\bin\Debug\P2 Projekt.pdb
+C:\Users\Tricky\Documents\GitHub\P2-Projekt\P2 Projekt\P2 Projekt\obj\Debug\P2 Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Tricky\Documents\GitHub\P2-Projekt\P2 Projekt\P2 Projekt\obj\Debug\P2_Projekt.Form1.resources
+C:\Users\Tricky\Documents\GitHub\P2-Projekt\P2 Projekt\P2 Projekt\obj\Debug\P2_Projekt.Properties.Resources.resources
+C:\Users\Tricky\Documents\GitHub\P2-Projekt\P2 Projekt\P2 Projekt\obj\Debug\P2 Projekt.csproj.GenerateResource.Cache
+C:\Users\Tricky\Documents\GitHub\P2-Projekt\P2 Projekt\P2 Projekt\obj\Debug\P2 Projekt.exe
+C:\Users\Tricky\Documents\GitHub\P2-Projekt\P2 Projekt\P2 Projekt\obj\Debug\P2 Projekt.pdb
