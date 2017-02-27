@@ -10,6 +10,7 @@ namespace P2_Projekt
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// ESTTE
         [STAThread]
         static void Main()
         {
