@@ -22,10 +22,10 @@ namespace P2_Projekt
             ThreadStart childref = new ThreadStart(BeepSound);
             Thread NT = new Thread(childref);
             StartBeepThreads();
-            //MessageBox.Show("Dette er en test!");
+            MessageBox.Show("Dette er en test!");
         }
 
-        public void StartBeepThreads()
+        public void StartBeepThreads()s
         {
             ThreadStart childref = new ThreadStart(BeepSound);
             List<Thread> BeepThreads = new List<Thread>();
