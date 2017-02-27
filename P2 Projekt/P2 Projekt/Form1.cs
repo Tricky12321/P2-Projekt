@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using System.Timers;
 
 namespace P2_Projekt
 {
@@ -19,6 +20,15 @@ namespace P2_Projekt
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Dette er en test!");
+        }
+
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            int i = 0;
+            ++i;
+            if (i == 1)
+                Console.Beep();
         }
     }
 }
