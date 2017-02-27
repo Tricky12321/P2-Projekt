@@ -6,11 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-<<<<<<< HEAD
 using System.Threading;
-=======
-using System.Timers;
->>>>>>> origin/Test_branch
 
 namespace P2_Projekt
 {
@@ -49,15 +45,6 @@ namespace P2_Projekt
         {
             
             Console.Beep();
-        }
-
-
-        private void timer1_Tick(object sender, EventArgs e)
-        {
-            int i = 0;
-            ++i;
-            if (i == 1)
-                Console.Beep();
         }
     }
 }
