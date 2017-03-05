@@ -1,0 +1,10 @@
+c:\users\tricky\documents\visual studio 2015\Projects\Client2\Client2\bin\Debug\Client2.exe
+c:\users\tricky\documents\visual studio 2015\Projects\Client2\Client2\bin\Debug\Client2.pdb
+c:\users\tricky\documents\visual studio 2015\Projects\Client2\Client2\obj\Debug\Client2.exe
+c:\users\tricky\documents\visual studio 2015\Projects\Client2\Client2\obj\Debug\Client2.pdb
+C:\Users\Tricky\Documents\Visual Studio 2015\Projects\Client2\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\Users\Tricky\OneDrive\Visual Studio 2015\Projects\Client2\Client2\obj\Debug\Client2.exe
+C:\Users\Tricky\OneDrive\Visual Studio 2015\Projects\Client2\Client2\obj\Debug\Client2.pdb
+C:\Users\Tricky\OneDrive\Visual Studio 2015\Projects\Client2\Client2\bin\Debug\Client2.exe
+C:\Users\Tricky\OneDrive\Visual Studio 2015\Projects\Client2\Client2\bin\Debug\Client2.pdb
+C:\Users\Tricky\OneDrive\Visual Studio 2015\Projects\Client2\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
