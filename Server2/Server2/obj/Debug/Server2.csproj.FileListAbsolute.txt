@@ -3,3 +3,5 @@ c:\users\tricky\documents\visual studio 2015\Projects\Server2\Server2\bin\Debug\
 c:\users\tricky\documents\visual studio 2015\Projects\Server2\Server2\obj\Debug\Server2.csprojResolveAssemblyReference.cache
 c:\users\tricky\documents\visual studio 2015\Projects\Server2\Server2\obj\Debug\Server2.exe
 c:\users\tricky\documents\visual studio 2015\Projects\Server2\Server2\obj\Debug\Server2.pdb
+C:\Users\Tricky\Documents\GitHub\P2-Projekt\Server2\Server2\obj\Debug\Server2.exe
+C:\Users\Tricky\Documents\GitHub\P2-Projekt\Server2\Server2\obj\Debug\Server2.pdb
